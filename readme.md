@@ -6,7 +6,7 @@
 - 🧍 I am Gurami,  study computer science at the University of Business and Technology - BTU!
 - 🎓 I’m currently learning everything 🤣 However, i am mostly interested in Android Development
 - 👯 I’m looking to collaborate IT team and get more expirience.
-- ⚡ Fun fact: I love to JUDO and Volleyball.
+- ⚡ Fun fact: I love JUDO and Volleyball.
 
 ### Connect with me:
 
