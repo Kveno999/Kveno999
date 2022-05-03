@@ -1,7 +1,7 @@
 ### Hi there, I'm Gurami 👋 
 
 
-## I'm a Android Developer!
+## I'm a Student!
 
 - 🧍 I am Gurami,  study computer science at the University of Business and Technology - BTU!
 - 🎓 I’m currently learning everything 🤣 However, i am mostly interested in Android Development
