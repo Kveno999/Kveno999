@@ -3,9 +3,9 @@
 
 ## I'm a Student!
 
- I study computer science at the University of Business and Technology - BTU!
- I’m currently learning everything, However, i am mostly interested in Kotlin and Python.
- I’m looking to collaborate IT team and get more expirience.
+- I study computer science at the University of Business and Technology - BTU!
+- I’m currently learning everything, However, i am mostly interested in Kotlin and Python.
+- I’m looking to collaborate IT team and get more expirience.
 
 ### Connect with me:
 
