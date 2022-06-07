@@ -1,12 +1,11 @@
-### Hi there, I'm Gurami 👋 
+### Hi there, I'm Gurami  
 
 
 ## I'm a Student!
 
-- 🧍 I am Gurami,  study computer science at the University of Business and Technology - BTU!
-- 🎓 I’m currently learning everything 🤣 However, i am mostly interested in Android Development
-- 👯 I’m looking to collaborate IT team and get more expirience.
-- ⚡ Fun fact: I love JUDO and Volleyball.
+ I study computer science at the University of Business and Technology - BTU!
+ I’m currently learning everything, However, i am mostly interested in Kotlin and Python.
+ I’m looking to collaborate IT team and get more expirience.
 
 ### Connect with me:
 
